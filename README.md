@@ -39,6 +39,33 @@ I enjoy solving coding puzzles and UI design challenges in my free time.
 - 💬 Ask me about Full Stack
 - ⚡ Fun fact about me: I enjoy solving coding puzzles and UI design challenges in my free time.
 
+### Social
+
+<a href="https://www.github.com/Aryan3522" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
+</picture>
+</a> &nbsp;
+<a href="https://www.x.com/Aryan3522" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
+</picture>
+</a> &nbsp;
+<a href="https://www.linkedin.com/in/aryan-hooda-17b86b24a" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
+</picture>
+</a> &nbsp;
+<a href="https://www.instagram.com/_aryan_hooda_" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" alt="instagram" />
+</picture>
+</a> &nbsp;
+<a href="https://www.discord.com/users/m_aryan_m" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/discord.svg" alt="discord" />
+</picture>
+</a> &nbsp;
 
 ### Skills
 
@@ -124,33 +151,6 @@ I enjoy solving coding puzzles and UI design challenges in my free time.
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" />
 </picture></a> &nbsp;
 
-### Social
-
-<a href="https://www.github.com/Aryan3522" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
-</picture>
-</a> &nbsp;
-<a href="https://www.x.com/Aryan3522" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
-</picture>
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/aryan-hooda-17b86b24a" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
-</picture>
-</a> &nbsp;
-<a href="https://www.instagram.com/_aryan_hooda_" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" alt="instagram" />
-</picture>
-</a> &nbsp;
-<a href="https://www.discord.com/users/m_aryan_m" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/discord.svg" alt="discord" />
-</picture>
-</a> &nbsp;
 
 ### Badges
 #### My GitHub Stats
