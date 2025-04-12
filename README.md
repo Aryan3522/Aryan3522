@@ -37,7 +37,7 @@ aryanhooda3522@gmail.com
 I enjoy solving coding puzzles and UI design challenges in my free time.
 
 
-# 🌐 Socials:
+ 🌐 Socials:
 
 <a href="https://www.github.com/Aryan3522" target="_blank" rel="noreferrer">
 <picture>
