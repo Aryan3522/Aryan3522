@@ -66,7 +66,7 @@ I enjoy solving coding puzzles and UI design challenges in my free time.
 </a> &nbsp;
 <a href="mailto:aryanhooda3522@gmail.com" target="_blank" rel="noreferrer">
   <picture>
-    <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/socials/gmail.svg" alt="gmail" />
+    <img height="30" width="30" src="https://iconduck.com/icons/11088/gmail.svg" alt="gmail" />
   </picture>
 </a> &nbsp;
 
