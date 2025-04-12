@@ -9,6 +9,10 @@
 
 a passionate Full Stack Developer who loves building web applications.
 
+🌍 I'm from:
+
+India, Delhi
+
 🌱 I’m currently learning:
 
 advanced React, Node.js, Django and exploring DevOps tools.
@@ -33,8 +37,6 @@ aryanhooda3522@gmail.com
 
 I enjoy solving coding puzzles and UI design challenges in my free time.
 
-- 🌍 I'm from India, Delhi
-- 📫 Reach me at [aryanhooda3522@gmail.com](mailto:aryanhooda3522@gmail.com)
 
 ### Social
 
