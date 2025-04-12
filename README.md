@@ -6,24 +6,31 @@
 💫 About Me:
 
 👋 Hi! I'm Aryan,
+
 a passionate Full Stack Developer who loves building web applications.
 
 🌱 I’m currently learning:
+
 advanced React, Node.js, Django and exploring DevOps tools.
 
 👯 I’m looking to collaborate on:
+
 Fullstack projects
 
 🔭 I’m currently working on:
+
 a social media website in which user can post,like photos/posts.
 
 💬 Ask me about:
+
 JavaScript, React,Nextjs,Nodejs, Express, MongoDB,SQL and any general software development questions.
 
 📫 How to reach me:
+
 aryanhooda3522@gmail.com
 
 ⚡ Fun fact:
+
 I enjoy solving coding puzzles and UI design challenges in my free time.
 
 - 🌍 I'm from India, Delhi
