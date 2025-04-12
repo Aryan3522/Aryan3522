@@ -49,7 +49,7 @@ I enjoy solving coding puzzles and UI design challenges in my free time.
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
 </picture>
 </a> &nbsp;
-<a href="[https://www.stackoverflow.com/user/37906103/aryan](https://meta.stackoverflow.com/users/28490476/aryan)" target="_blank" rel="noreferrer">
+<a href="https://meta.stackoverflow.com/users/28490476/aryan" target="_blank" rel="noreferrer">
 <picture>
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/stackoverflow.svg" alt="stackoverflow" />
 </picture>
