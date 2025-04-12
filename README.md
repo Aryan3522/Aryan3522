@@ -35,9 +35,6 @@ I enjoy solving coding puzzles and UI design challenges in my free time.
 
 - 🌍 I'm from India, Delhi
 - 📫 Reach me at [aryanhooda3522@gmail.com](mailto:aryanhooda3522@gmail.com)
-- 🌱 I'm currently learning Django, advance React
-- 💬 Ask me about Full Stack
-- ⚡ Fun fact about me: I enjoy solving coding puzzles and UI design challenges in my free time.
 
 ### Social
 
