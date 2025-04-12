@@ -44,7 +44,7 @@ I enjoy solving coding puzzles and UI design challenges in my free time.
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
 </picture>
 </a> &nbsp;
-<a href="https://www.x.com/Aryan3522" target="_blank" rel="noreferrer">
+<a href="https://www.x.com/AryanSolix" target="_blank" rel="noreferrer">
 <picture>
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
 </picture>
