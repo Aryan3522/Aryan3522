@@ -49,6 +49,11 @@ I enjoy solving coding puzzles and UI design challenges in my free time.
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
 </picture>
 </a> &nbsp;
+<a href="https://www.stackoverflow.com/user/28490476/aryan" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/stackoverflow.svg" alt="stackoverflow" />
+</picture>
+</a> &nbsp;
 <a href="https://www.linkedin.com/in/aryan-hooda-17b86b24a" target="_blank" rel="noreferrer">
 <picture>
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
