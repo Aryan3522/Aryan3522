@@ -2,7 +2,7 @@
 ## Full Stack Developer
 
 
-## 💫 About Me:
+# 💫 About Me:
 
 👋 Hi! I'm Aryan,
 
@@ -37,7 +37,7 @@ aryanhooda3522@gmail.com
 I enjoy solving coding puzzles and UI design challenges in my free time.
 
 
- 🌐 Socials:
+# 🌐 Socials:
 
 <a href="https://www.github.com/Aryan3522" target="_blank" rel="noreferrer">
 <picture>
@@ -65,7 +65,7 @@ I enjoy solving coding puzzles and UI design challenges in my free time.
 </picture>
 </a> &nbsp;
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/c-colored.svg" alt="C" />
@@ -150,8 +150,7 @@ I enjoy solving coding puzzles and UI design challenges in my free time.
 </picture></a> &nbsp;
 
 
-### Badges
-### 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 <a
 href="http://www.github.com/Aryan3522"><img src="https://github-readme-stats.vercel.app/api?username=Aryan3522&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Aryan3522's GitHub stats" /></a> <br/>
