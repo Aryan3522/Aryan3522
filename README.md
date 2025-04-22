@@ -28,9 +28,7 @@ a social media website in which user can post,like photos/posts.
 
 JavaScript, React,Nextjs,Nodejs, Express, MongoDB,SQL and any general software development questions.
 
-📫 How to reach me:
-
-aryanhooda3522@gmail.com
+📫 How to reach me: aryanhooda3522@gmail.com
 
 ⚡ Fun fact:
 
