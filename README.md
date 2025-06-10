@@ -68,6 +68,11 @@ I enjoy solving coding puzzles and UI design challenges in my free time.
 </picture>
 </a> &nbsp;
 
+#Snake game
+<div align="center">
+ <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+ </div>
+
 # 💻 Tech Stack:
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture>
