@@ -68,7 +68,7 @@ I enjoy solving coding puzzles and UI design challenges in my free time.
 </picture>
 </a> &nbsp;
 
-#Snake game
+
 <div align="center">
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
  </div>
