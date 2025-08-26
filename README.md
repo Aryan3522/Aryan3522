@@ -22,7 +22,7 @@ Fullstack projects
 
 🔭 I’m currently working on:
 
-a social media website in which user can post,like photos/posts.
+a Youtube Clone Web Application with a firebase integrated user login.
 
 💬 Ask me about:
 
@@ -155,6 +155,9 @@ I enjoy solving coding puzzles and UI design challenges in my free time.
 </picture></a> &nbsp;
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" />
+</picture></a> &nbsp;
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/firebase-colored.svg" alt="Firebase" />
 </picture></a> &nbsp;
 
 
