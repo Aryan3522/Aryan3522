@@ -157,7 +157,7 @@ I enjoy solving coding puzzles and UI design challenges in my free time.
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" />
 </picture></a> &nbsp;
 <a href="[https://cloud.google.com/](https://firebase.google.com/)" target="_blank" rel="noreferrer"><picture>
-<img alt="Static Badge" src="https://img.shields.io/badge/firebase-google" alt="Google Firebase">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Google Firebase" />
 </picture></a> &nbsp;
 
 
