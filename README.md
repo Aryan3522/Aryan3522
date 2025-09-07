@@ -8,6 +8,7 @@
 
 a passionate Full Stack Developer who loves building web applications.
 
+<!--
 🌍 I'm from:
 
 India, Delhi
@@ -33,6 +34,7 @@ JavaScript, React,Nextjs,Nodejs, Express, MongoDB,SQL and any general software d
 ⚡ Fun fact:
 
 I enjoy solving coding puzzles and UI design challenges in my free time.
+-->
 
 <div align="center">
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
