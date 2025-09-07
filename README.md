@@ -174,7 +174,8 @@ I enjoy solving coding puzzles and UI design challenges in my free time.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aryan3522&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aryan3522&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan3522&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan3522&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan3522&theme=dark&background=000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 -->
 
 # 📊 GitHub Stats:
@@ -187,27 +188,26 @@ src="https://streak-stats.demolab.com/?user=Aryan3522&stroke=ffffff&background=0
 <br/>
 <a href="http://www.github.com/Aryan3522"><img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a> <br/>
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan3522&background=000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan3522&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <!--
 <a href="https://github.com/Aryan3522" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan3522&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/>
 -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aryan3522&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Aryan3522&theme=vision-friendly-dark&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aryan3522&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Aryan3522&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aryan3522&icon=9&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Aryan3522&icon=9&color=13)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
 <!--
 **Aryan3522/Aryan3522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
