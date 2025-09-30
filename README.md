@@ -1,49 +1,20 @@
 
-## Full Stack Developer
+## Full Stack Web Developer
 
 
 # 💫 About Me:
 
-👋 Hi! I'm Aryan,
-
-a passionate Full Stack Developer who loves building web applications.
-
-<!--
-🌍 I'm from:
-
-India, Delhi
-
-🌱 I’m currently learning:
-
-advanced React, Node.js, Django and exploring DevOps tools.
-
-👯 I’m looking to collaborate on:
-
-Fullstack projects
-
-🔭 I’m currently working on:
-
-a Youtube Clone Web Application with a firebase integrated user login.
-
-💬 Ask me about:
-
-JavaScript, React,Nextjs,Nodejs, Express, MongoDB,SQL and any general software development questions.
-
-📫 How to reach me: aryanhooda3522@gmail.com
-
-⚡ Fun fact:
-
-I enjoy solving coding puzzles and UI design challenges in my free time.
--->
+👋 Hi! I'm Aryan, a passionate Full Stack Developer who loves building web applications.
 
 <div align="center">
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
  </div>
- 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/etUymqRC) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19vZmVSqdn/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/roro_noa_zoro_o/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-hooda-17b86b24a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/28490476/aryan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AryanSolix) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Programmer_zoro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanhooda3522@gmail.com) 
 
-<!--
+ <!--
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/etUymqRC) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19vZmVSqdn/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/roro_noa_zoro_o/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-hooda-17b86b24a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/28490476/aryan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AryanSolix) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@code_milkha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanhooda3522@gmail.com) 
+-->
+
 # 🌐 Socials:
 
 <a href="https://www.github.com/Aryan3522" target="_blank" rel="noreferrer">
@@ -77,6 +48,7 @@ I enjoy solving coding puzzles and UI design challenges in my free time.
 </picture>
 </a> &nbsp;
 
+<!--
 
 # 💻 Tech Stack:
 
