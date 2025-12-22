@@ -1,10 +1,26 @@
 
 ## Full Stack Web Developer
 
-
+<!--
 # 💫 About Me:
 
 👋 Hi! I'm Aryan, a passionate Full Stack Developer who loves building web applications.
+-->
+
+## 👨‍💻 About Me
+
+Hi there! 👋 I'm **Aryan**, a passionate **Full Stack Web Developer** who loves building scalable, user-centric applications and turning ideas into production-ready products.
+
+- 🚀 Focused on crafting clean, minimal UIs with high-performance backends  
+- 💡 Strong in JavaScript, React, Node.js, and modern web ecosystems  
+- 🧠 Always learning — currently deep-diving into system design & scalable APIs  
+- 🔧 I enjoy solving real-world problems and optimizing for speed, UX, and maintainability  
+- 🎯 Aspiring **SDE-1** aiming to grow in a fast-paced, impact-driven engineering team  
+
+I believe in **shipping fast, iterating smarter, and writing code that scales**.  
+Open to collaborations, open-source contributions, and exciting opportunities!
+
+📬 Let’s connect and build something amazing together.
 
 <div align="center">
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -122,28 +138,6 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 
-
-
-<!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aryan3522&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aryan3522&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan3522&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan3522&theme=dark&background=000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
--->
-
-<!--
-# 📊 GitHub Stats:
-<a
-href="http://www.github.com/Aryan3522"><img src="https://github-readme-stats.vercel.app/api?username=Aryan3522&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Aryan3522's GitHub stats" /></a> <br/>
-<br/>
-<a href="http://www.github.com/Aryan3522"><img
-src="https://streak-stats.demolab.com/?user=Aryan3522&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> <br/>
-<br/>
-<a href="http://www.github.com/Aryan3522"><img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a> 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan3522&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
--->
 
 
 <!-- ============================================================================================================ -->
