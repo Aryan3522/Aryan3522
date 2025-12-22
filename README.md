@@ -153,12 +153,11 @@ src="https://streak-stats.demolab.com/?user=Aryan3522&stroke=ffffff&background=0
   <a href="https://github.com/Aryan3522">
     <img src="https://github-readme-stats.vercel.app/api?username=Aryan3522&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb" height="170" />
   </a>
-  <a href="https://github.com/Aryan3522">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryan3522&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=e5e7eb&sideNums=e5e7eb&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=9ca3af" height="170" />
-  </a>
+
  
-<a href="http://www.github.com/Aryan3522"><img
-src="https://streak-stats.demolab.com/?user=Aryan3522&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> 
+  <a href="http://www.github.com/Aryan3522">
+   <img src="https://streak-stats.demolab.com/?user=Aryan3522&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a> 
 </p>
 
 <p align="center">
