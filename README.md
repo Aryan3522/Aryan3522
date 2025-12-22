@@ -10,13 +10,13 @@
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
  </div>
 
- 
+<!-- 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/etUymqRC) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19vZmVSqdn/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/roro_noa_zoro_o/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-hooda-17b86b24a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/28490476/aryan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AryanSolix) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@code_milkha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanhooda3522@gmail.com) 
-
+-->
 
 # 🌐 Socials:
-
+<div style="display: flex; justify-content: space-evenly;">
 <a href="https://www.github.com/Aryan3522" target="_blank" rel="noreferrer">
 <picture>
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
@@ -52,10 +52,158 @@
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/youtube.svg" alt="Youtube" />
 </picture>
 </a> &nbsp;
+</div>
+
+## 🛠️ Tech Skills
+
+<p align="left">
+
+<!-- Languages -->
+<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C"/>
+</a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++"/>
+</a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/>
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/>
+</a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="36" height="36" alt="PHP"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/>
+</a>
+
+<!-- Frontend -->
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/>
+</a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/>
+</a>
+<a href="https://sass-lang.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS"/>
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"/>
+</a>
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="Next.js"/>
+</a>
+<a href="https://angular.io/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="36" height="36" alt="Angular"/>
+</a>
+<a href="https://vuejs.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="36" height="36" alt="Vue.js"/>
+</a>
+<a href="https://jquery.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="36" height="36" alt="jQuery"/>
+</a>
+<a href="https://mui.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="MUI"/>
+</a>
+<a href="https://chakra-ui.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-icon.svg" width="36" height="36" alt="Chakra UI"/>
+</a>
+<a href="https://radix-ui.com/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" width="36" height="36" alt="Radix UI"/>
+</a>
+
+<!-- Backend -->
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js"/>
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express.js"/>
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" width="36" height="36" alt="FastAPI"/>
+</a>
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="36" height="36" alt="Django"/>
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="36" height="36" alt="Flask"/>
+</a>
+<a href="https://graphql.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="36" height="36" alt="GraphQL"/>
+</a>
+<a href="https://socket.io/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" width="36" height="36" alt="Socket.io"/>
+</a>
+
+<!-- Databases -->
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="36" height="36" alt="MongoDB"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="36" height="36" alt="MySQL"/>
+</a>
+<a href="https://www.sqlite.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36" height="36" alt="SQLite"/>
+</a>
+<a href="https://supabase.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="36" height="36" alt="Supabase"/>
+</a>
+
+<!-- Tools & Platforms -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/>
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="36" height="36" alt="GitHub"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker"/>
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="AWS"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="36" height="36" alt="Firebase"/>
+</a>
+<a href="https://vercel.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="36" height="36" alt="Vercel"/>
+</a>
+<a href="https://www.netlify.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/netlify-colored.svg" width="36" height="36" alt="Netlify"/>
+</a>
+<a href="https://postman.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman"/>
+</a>
+
+<!-- Design -->
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma"/>
+</a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop"/>
+</a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <img src="https://raw.githubusercontent.com/ShahVandit8/profile-x/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator"/>
+</a>
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="36" height="36" alt="Canva"/>
+</a>
+
+</p>
 
 
+<!--
 # 💻 Tech Stack:
-
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/c-colored.svg" alt="C" />
 </picture></a> &nbsp;
@@ -140,6 +288,11 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><picture>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Google Firebase" />
 </picture></a> &nbsp;
+-->
+
+
+
+
 
 
 
@@ -247,17 +400,24 @@ src="https://streak-stats.demolab.com/?user=Aryan3522&stroke=ffffff&background=0
 
 
 ## 🏆 GitHub Trophies
+<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=Aryan3522&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+</div>
 
 ### ✍️ Random Dev Quote
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
+<div align="center">
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aryan3522&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
+<div align="center">
 [![](https://visitcount.itsvg.in/api?id=Aryan3522&icon=9&color=13)](https://visitcount.itsvg.in)
-
+</div>
 
 
 <!-- created with GPRM ( https://gprm.itsvg.in ) -->
