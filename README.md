@@ -198,11 +198,6 @@ src="https://streak-stats.demolab.com/?user=Aryan3522&stroke=ffffff&background=0
 ---
 [![](https://visitcount.itsvg.in/api?id=Aryan3522&icon=9&color=13)](https://visitcount.itsvg.in)
 -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryan3522&theme=onedark&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
@@ -221,13 +216,6 @@ src="https://streak-stats.demolab.com/?user=Aryan3522&stroke=ffffff&background=0
 </p>
 
 ---
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Aryan3522&icon=9&color=38bdf8" />
-</p>
-
 
 
 <!-- created with GPRM ( https://gprm.itsvg.in ) -->
