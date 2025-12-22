@@ -140,9 +140,34 @@ href="http://www.github.com/Aryan3522"><img src="https://github-readme-stats.ver
 <a href="http://www.github.com/Aryan3522"><img
 src="https://streak-stats.demolab.com/?user=Aryan3522&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> <br/>
 <br/>
-<a href="http://www.github.com/Aryan3522"><img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a> <br/>
-<br/>
+<a href="http://www.github.com/Aryan3522"><img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a> 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan3522&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+<!-- ============================================================================================================ -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Aryan3522">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aryan3522&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb" height="170" />
+  </a>
+  <a href="https://github.com/Aryan3522">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryan3522&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=e5e7eb&sideNums=e5e7eb&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=9ca3af" height="170" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aryan3522">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan3522&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb" height="150" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aryan3522">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=0d1117&color=e5e7eb&line=38bdf8&point=38bdf8&area=true&hide_border=true" width="90%" />
+  </a>
+</p>
 
 
 
@@ -154,24 +179,19 @@ src="https://streak-stats.demolab.com/?user=Aryan3522&stroke=ffffff&background=0
 
 
 ## 🏆 GitHub Trophies
-<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=Aryan3522&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-</div>
+
 
 ### ✍️ Random Dev Quote
-<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
 
-<div align="center">
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aryan3522&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
-</div>
+
 
 ---
-<div align="center">
 [![](https://visitcount.itsvg.in/api?id=Aryan3522&icon=9&color=13)](https://visitcount.itsvg.in)
-</div>
 
 
 <!-- created with GPRM ( https://gprm.itsvg.in ) -->
