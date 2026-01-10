@@ -141,40 +141,6 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 </p>
 
 
-
-<!-- TOP Languages -->
-<div align="center"
-<a href="https://github.com/Aryan3522" width="100"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan3522&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/>
-</div>
-
-
-
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aryan3522&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aryan3522&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
-
----
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Aryan3522&icon=9&color=13)](https://visitcount.itsvg.in)
-
-
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aryan3522&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
--->
-
-
 ## ✍️ Dev Quote of the Day
 
 <p align="center">
