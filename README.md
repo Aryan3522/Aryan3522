@@ -1,12 +1,6 @@
 
 ## Full Stack Web Developer
 
-<!--
-# 💫 About Me:
-
-👋 Hi! I'm Aryan, a passionate Full Stack Developer who loves building web applications.
--->
-
 ## 👨‍💻 About Me
 
 Hi there! 👋 I'm **Aryan**, a passionate **Full Stack Web Developer** who loves building scalable, user-centric applications and turning ideas into production-ready products.
@@ -164,15 +158,22 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aryan3522&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
+---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aryan3522&icon=9&color=13)](https://visitcount.itsvg.in)
+
+
+## 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Aryan3522&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 -->
 
----
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## ✍️ Dev Quote of the Day
 
@@ -181,14 +182,3 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 </p>
 
 ---
-
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aryan3522&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-
-<!-- created with GPRM ( https://gprm.itsvg.in ) -->
