@@ -140,26 +140,6 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 
 
 
-<!-- ============================================================================================================ -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Aryan3522">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aryan3522&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb" height="170" />
-  </a>
-
-  <a href="https://github.com/Aryan3522">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan3522&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb" height="150" />
-  </a>
- 
-  <a href="http://www.github.com/Aryan3522">
-   <img src="https://streak-stats.demolab.com/?user=Aryan3522&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a> 
-</p>
-<!--
-<p align="center">
-</p>
--->
 <p align="center">
   <a href="https://github.com/Aryan3522">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=0d1117&color=e5e7eb&line=38bdf8&point=38bdf8&area=true&hide_border=true" width="90%" />
@@ -169,11 +149,10 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 
 
 <!-- TOP Languages -->
-<!--
 <div align="center"
 <a href="https://github.com/Aryan3522" width="100"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan3522&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/>
 </div>
--->
+
 
 
 <!--
@@ -181,12 +160,10 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 ![](https://github-profile-trophy.vercel.app/?username=Aryan3522&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aryan3522&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+
 
 
 ---
@@ -194,6 +171,8 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 -->
 
 ---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## ✍️ Dev Quote of the Day
 
