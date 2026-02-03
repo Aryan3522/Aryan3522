@@ -22,7 +22,7 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 
 
 # 🌐 Socials:
-<div style="display: flex; justify-content: space-evenly;">
+<div style="display: flex; justify-content: center;">
 <a href="https://www.github.com/Aryan3522" target="_blank" rel="noreferrer">
 <picture>
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
