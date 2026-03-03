@@ -17,7 +17,7 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 📬 Let’s connect and build something amazing together.
 
 <div align="center">
- <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+ <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
  </div>
 
 
@@ -134,9 +134,7 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 
 
 <p align="center">
-  <a href="https://github.com/Aryan3522">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=0d1117&color=e5e7eb&line=38bdf8&point=38bdf8&area=true&hide_border=true" width="90%" />
-  </a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=0d1117&color=e5e7eb&line=38bdf8&point=38bdf8&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
@@ -149,7 +147,7 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 ## ✍️ Dev Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" />
 </p>
 
 ---
