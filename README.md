@@ -139,7 +139,12 @@ Open to collaborations, open-source contributions, and exciting opportunities!
   </a>
 </p>
 
-![Aryan's GitHub stats](https://github-readme-stats-liard-eta-57.vercel.app/api?username=Aryan3522&show_icons=true&theme=radical)
+<p align="center">
+  <img 
+    src="https://github-readme-stats-liard-eta-57.vercel.app/api?username=Aryan3522&show_icons=true&theme=radical" 
+    width="100%" 
+  />
+</p>
 
 ## ✍️ Dev Quote of the Day
 
