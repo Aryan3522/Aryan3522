@@ -151,7 +151,10 @@ Open to **collaborations, open-source contributions, and exciting engineering op
 <br/>
 -->
 
+<!--
 # 💻 Tech Stack:
+-->
+# < > Things I code with
 <p align="center">
    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,docker,aws,vercel,figma&theme=dark&titles=true"  width="100%"  />
 </p>
