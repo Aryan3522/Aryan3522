@@ -1,10 +1,6 @@
 <!-- Add Banner Here! -->
-<!--
+
 [![Visits Badge](https://komarev.com/ghpvc/?username=Aryan3522&label=Profile%20views&color=red&style=for-the-badge)]()
--->
-<a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank">
-  <img src='https://komarev.com/ghpvc/?username=Aryan3522&label=Profile%20views&color=red&style=for-the-badge'>
-</a>
 <a href="https://x.com/code_milkha" target="_blank">
   <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
 </a>
@@ -13,6 +9,12 @@
 </a>
 <a href="https://www.github.com/Aryan3522" target="_blank">
   <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="GitHub" />
+</a>
+<a href="https://www.youtube.com/@code_milkha" target="_blank">
+  <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/youtube.svg" alt="YouTube" />
+</a>
+<a href="https://www.instagram.com/_aryan_hooda_" target="_blank">
+  <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" alt="Instagram" />
 </a>
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank">
