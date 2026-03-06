@@ -10,10 +10,19 @@ Hi there! 👋 I'm **Aryan**, a passionate **Full Stack Web Developer** who love
 
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=Aryan3522&label=Profile%20views&color=red&style=for-the-badge)]()
-<a href="https://x.com/code_milkha" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter" ></img></a>
-<a href="https://www.linkedin.com/in/aryan-hooda-code/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Linkedin" /></a>
-<a href="https://www.github.com/Aryan3522" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" /></a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://x.com/code_milkha" target="_blank">
+  <!-- <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter" /> -->
+  <img height="50" width="50" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" />
+</a>
+<a href="https://www.linkedin.com/in/aryan-hooda-code/" target="_blank">
+  <!-- <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Linkedin" /> -->
+  <img height="50" width="50" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" />
+</a>
+<a href="https://www.github.com/Aryan3522" target="_blank">
+  <!-- <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" /> -->
+  <img height="50" width="50" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" />
+</a>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank">
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
 </a>
@@ -199,12 +208,17 @@ Open to **collaborations, open-source contributions, and exciting engineering op
 # 💻 Tech Stack:
 -->
 # Things I code with
+<!--
 <div align="center">
    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,docker,aws,vercel,figma&theme=dark&titles=true"  width="100%"  />
 </div>
 <br/>
 <div align="center">
    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,html,css,tailwind,sass,bootstrap,js,ts,react,nextjs,angular,vue,jquery,mui,radix,threejs,nodejs,express,graphql,python,django,flask,php,mongodb,mysql,sqlite,supabase,firebase,docker,git,github,aws,vercel,netlify,render,vite,webpack,postman,figma,framer,blender,photoshop,illustrator&theme=dark&titles=true"  width="100%"  />
+</div>
+-->
+<div align="center">
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,python,js,ts,tailwind,bootstrap,react,nextjs,angular,vue,jquery,mui,nodejs,express,graphql,django,flask,php,mongodb,mysql,postgres,firebase,docker,git,github,aws,vercel,postman,figma,framer,blender&theme=dark&titles=true"  width="100%"  />
 </div>
 
 
