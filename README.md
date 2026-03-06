@@ -144,7 +144,7 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 ## ✍️ Dev Quote of the Day
 
 <p align="center" style="margin-bottom:20px;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true" width="100%" />
 </p>
 
 ---
