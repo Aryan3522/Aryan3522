@@ -39,7 +39,9 @@ Open to **collaborations, open-source contributions, and exciting engineering op
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
  </div>
 # 🌐 Socials:
+
 [![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://personal-portfolio-gamma-gold-55.vercel.app/)
+
 <div style="display: flex; justify-content: space-evenly;">
 <a href="https://www.github.com/Aryan3522" target="_blank" rel="noreferrer">
 <picture>
