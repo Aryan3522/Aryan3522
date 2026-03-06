@@ -39,47 +39,43 @@ Open to **collaborations, open-source contributions, and exciting engineering op
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
  </div>
 # 🌐 Socials:
+<table>
+<tr>
+<td>
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://personal-portfolio-gamma-gold-55.vercel.app/)
 
-<div style="display: flex; justify-content: space-evenly;">
-<a href="https://www.github.com/Aryan3522" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
-</picture>
-</a> &nbsp;
-<a href="https://www.x.com/AryanSolix" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
-</picture>
-</a> &nbsp;
-<a href="https://meta.stackoverflow.com/users/28490476/aryan" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/stackoverflow.svg" alt="stackoverflow" />
-</picture>
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/aryan-hooda-17b86b24a" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
-</picture>
-</a> &nbsp;
-<a href="https://www.instagram.com/_aryan_hooda_" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" alt="instagram" />
-</picture>
-</a> &nbsp;
-<a href="https://www.discord.com/users/m_aryan_m" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/discord.svg" alt="discord" />
-</picture>
-</a> &nbsp;
-<a href="https://www.youtube.com/@code_milkha" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/youtube.svg" alt="Youtube" />
-</picture>
-</a> &nbsp;
-</div>
+<a href="https://www.github.com/Aryan3522" target="_blank">
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg"/>
+</a>
+<a href="https://www.x.com/AryanSolix" target="_blank">
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg"/>
+</a>
+<a href="https://meta.stackoverflow.com/users/28490476/aryan" target="_blank">
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/stackoverflow.svg"/>
+</a>
+<a href="https://www.linkedin.com/in/aryan-hooda-17b86b24a" target="_blank">
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg"/>
+</a>
+<a href="https://www.instagram.com/_aryan_hooda_" target="_blank">
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg"/>
+</a>
+<a href="https://www.discord.com/users/m_aryan_m" target="_blank">
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/discord.svg"/>
+</a>
+<a href="https://www.youtube.com/@code_milkha" target="_blank">
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/youtube.svg"/>
+</a>
 
+</td>
+
+<td align="right">
+
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="250"/>
+
+</td>
+</tr>
+</table>
 
 <!--
 # 💻 Tech Stack:
