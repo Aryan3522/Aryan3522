@@ -24,9 +24,9 @@ Hi there! 👋 I'm **Aryan**, a passionate **Full Stack Web Developer** who love
 
 - 🚀 Building scalable full-stack applications with modern web technologies.
 
-- 👨‍💻 Explore my projects and work at [personal-portfolio-gamma-gold-55.vercel.app/](https://personal-portfolio-gamma-gold-55.vercel.app/)
+- 👨‍💻 Explore my projects and work at [Portfolio](https://personal-portfolio-gamma-gold-55.vercel.app/)
 
-- 📝 I share insights and technical articles on [personal-portfolio-gamma-gold-55.vercel.app/blogs](https://personal-portfolio-gamma-gold-55.vercel.app/blogs)
+- 📝 I share insights and technical articles on [Blogs](https://personal-portfolio-gamma-gold-55.vercel.app/blogs)
 
 - 📫 Reach me at **aryanhooda3522@gmail.com**
 
