@@ -177,7 +177,7 @@ Open to **collaborations, open-source contributions, and exciting engineering op
 </p>
 <p align="center">
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
-  <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aayushbharti&count_private=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&hide_border=true&border_radius=10&card_width=495" alt="streak stats" width="100%" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aayushbharti&count_private=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&hide_border=true&border_radius=10&" alt="streak stats" width="100%" />
 </a>
 </p>
 
