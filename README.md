@@ -14,8 +14,8 @@ Hi there! 👋 I'm **Aryan**, a passionate **Full Stack Web Developer** who love
 I believe in **shipping fast, iterating smarter, and writing code that scales**.  
 Open to collaborations, open-source contributions, and exciting opportunities!
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://personal-portfolio-gamma-gold-55.vercel.app/)
 📬 Let’s connect and build something amazing together.
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> 
 
 <div align="center">
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
@@ -23,6 +23,7 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 
 
 # 🌐 Socials:
+[![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://personal-portfolio-gamma-gold-55.vercel.app/)
 <div style="display: flex; justify-content: space-evenly;">
 <a href="https://www.github.com/Aryan3522" target="_blank" rel="noreferrer">
 <picture>
