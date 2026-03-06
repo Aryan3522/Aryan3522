@@ -1,15 +1,25 @@
-
-
-<!--
-## Full Stack Web Developer
-
-## 👨‍💻 About Me
-
-Hi there! 👋 I'm **Aryan**, a passionate **Full Stack Web Developer** who loves building scalable, user-centric applications and turning ideas into production-ready products.
--->
-
+<!-- Add Banner Here! -->
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=Aryan3522&label=Profile%20views&color=red&style=for-the-badge)]()
+
+<a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank">
+  <img src='[https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif](https://komarev.com/ghpvc/?username=Aryan3522&label=Profile%20views&color=red&style=for-the-badge)'>
+</a>
+<a href="https://x.com/code_milkha" target="_blank">
+  <img align="right" height="30" width="30"
+  src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/aryan-hooda-code/" target="_blank">
+  <img align="right" height="30" width="30"
+  src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" />
+</a>
+
+<a href="https://www.github.com/Aryan3522" target="_blank">
+  <img align="right" height="30" width="30"
+  src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" />
+</a>
+<!--
 <a href="https://x.com/code_milkha" target="_blank">
   <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter" />
 </a>
@@ -19,6 +29,7 @@ Hi there! 👋 I'm **Aryan**, a passionate **Full Stack Web Developer** who love
 <a href="https://www.github.com/Aryan3522" target="_blank">
   <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" />
 </a>
+-->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank">
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
@@ -34,20 +45,7 @@ Hi there! 👋 I'm **Aryan**, a passionate **Full Stack Web Developer** who love
 
 - 📫 Reach me at **aryanhooda3522@gmail.com**
 
-<!--
-🚀 Building clean, minimal UIs backed by high-performance, scalable APIs  
-💡 Strong in JavaScript, React, Node.js, and the modern web ecosystem  
-🧠 Currently deep-diving into system design, backend architecture, and scalable distributed systems  
-🔧 Passionate about solving real-world problems and optimizing for performance, UX, and maintainability  
-🎯 Aspiring **SDE-1**, looking to contribute to high-impact engineering teams  
-
-I believe in **shipping fast, iterating intelligently, and writing code that scales**.  
-
-Open to **collaborations, open-source contributions, and exciting engineering opportunities.**
-
-📬 Let’s connect and build something meaningful together.
--->
-
+<!-- Snake svg -->
 <div align="center">
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
 </div>
@@ -214,7 +212,6 @@ Open to **collaborations, open-source contributions, and exciting engineering op
 <div align="center">
    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,python,js,ts,tailwind,bootstrap,react,nextjs,angular,vue,jquery,mui,nodejs,express,graphql,django,flask,php,mongodb,mysql,postgres,firebase,docker,git,github,aws,vercel,postman,figma,framer,blender&theme=dark&titles=true"  width="100%"  />
 </div>
-
 
 <details>
   <summary>
