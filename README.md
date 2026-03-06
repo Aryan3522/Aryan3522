@@ -133,9 +133,12 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 -->
 
+<!--
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,html,css,tailwind,sass,bootstrap,js,ts,react,nextjs,angular,vue,jquery,mui,radix,threejs,nodejs,express,graphql,python,django,flask,php,mongodb,mysql,sqlite,supabase,firebase,docker,git,github,aws,vercel,netlify,render,vite,webpack,postman,figma,framer,blender,photoshop,illustrator&theme=dark&titles=true)](#)
 <br/>
+-->
 
+# 💻 Tech Stack:
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,docker,aws,vercel,figma&theme=dark&titles=true)](#)
 
 <p align="center">
