@@ -5,6 +5,7 @@
 
 Hi there! 👋 I'm **Aryan**, a passionate **Full Stack Web Developer** who loves building scalable, user-centric applications and turning ideas into production-ready products.
 
+<!--
 - 🚀 Focused on crafting clean, minimal UIs with high-performance backends  
 - 💡 Strong in JavaScript, React, Node.js, and modern web ecosystems  
 - 🧠 Always learning — currently deep-diving into system design & scalable APIs  
@@ -20,7 +21,22 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 <div align="center">
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
  </div>
+-->
+<a href="https://aayushbharti.in/" target="_blank">
+  <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="250"/>
+</a>
 
+🚀 Building clean, minimal UIs backed by high-performance, scalable APIs  
+💡 Strong in JavaScript, React, Node.js, and the modern web ecosystem  
+🧠 Currently deep-diving into system design, backend architecture, and scalable distributed systems  
+🔧 Passionate about solving real-world problems and optimizing for performance, UX, and maintainability  
+🎯 Aspiring **SDE-1**, looking to contribute to high-impact engineering teams  
+
+I believe in **shipping fast, iterating intelligently, and writing code that scales**.  
+
+Open to **collaborations, open-source contributions, and exciting engineering opportunities.**
+
+📬 Let’s connect and build something meaningful together.
 
 # 🌐 Socials:
 [![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://personal-portfolio-gamma-gold-55.vercel.app/)
