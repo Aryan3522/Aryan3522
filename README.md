@@ -7,9 +7,6 @@
 <a href="https://www.linkedin.com/in/aryan-hooda-code/" target="_blank">
   <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="Linkedin" />
 </a>
-<a href="https://www.github.com/Aryan3522" target="_blank">
-  <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="GitHub" />
-</a>
 <a href="https://www.youtube.com/@code_milkha" target="_blank">
   <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/youtube.svg" alt="YouTube" />
 </a>
@@ -228,7 +225,7 @@
 ## ✍️ Dev Quote of the Day
 
 <p align="center" style="margin-bottom:20px;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true" width="100%" minHeight="200px" />
 </p>
 </details>
 ---
