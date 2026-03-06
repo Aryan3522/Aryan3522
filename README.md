@@ -217,7 +217,7 @@
 </p>
 <p align="center">
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Aryan3522&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" width="100%" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Aryan3522&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" width="45%" />
 </a>
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Aryan3522&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true&height=200" width="45%" />
