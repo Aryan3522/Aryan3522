@@ -6,24 +6,17 @@
 Hi there! 👋 I'm **Aryan**, a passionate **Full Stack Web Developer** who loves building scalable, user-centric applications and turning ideas into production-ready products.
 
 <!--
-- 🚀 Focused on crafting clean, minimal UIs with high-performance backends  
-- 💡 Strong in JavaScript, React, Node.js, and modern web ecosystems  
-- 🧠 Always learning — currently deep-diving into system design & scalable APIs  
-- 🔧 I enjoy solving real-world problems and optimizing for speed, UX, and maintainability  
-- 🎯 Aspiring **SDE-1** aiming to grow in a fast-paced, impact-driven engineering team  
-
-I believe in **shipping fast, iterating smarter, and writing code that scales**.  
-Open to collaborations, open-source contributions, and exciting opportunities!
-
-📬 Let’s connect and build something amazing together.
-<a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
-
--->
-
-<!-- Monkey GIF -->
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank">
   <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="250"/>
 </a>
+-->
+
+[![Visits Badge](https://komarev.com/ghpvc/?username=Aryan3522&label=Profile%20views&color=red&style=for-the-badge)]()
+<a href="https://x.com/code_milkha" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter" ></img></a>
+<a href="https://www.linkedin.com/in/aryan-hooda-code/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Linkedin" /></a>
+<a href="https://www.github.com/Aryan3522" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" /></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
 🚀 Building clean, minimal UIs backed by high-performance, scalable APIs  
 💡 Strong in JavaScript, React, Node.js, and the modern web ecosystem  
@@ -41,14 +34,7 @@ Open to **collaborations, open-source contributions, and exciting engineering op
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
  </div>
 
-
-[![Visits Badge](https://komarev.com/ghpvc/?username=Aryan3522&label=Profile%20views&color=red&style=for-the-badge)]()
-<a href="https://x.com/code_milkha" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter" ></img></a>
-<a href="https://www.linkedin.com/in/aryan-hooda-code/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Linkedin" /></a>
-<a href="https://www.github.com/Aryan3522" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" /></a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
- 
+ <!--
 # 🌐 Socials:
 
 <div width="100%"> 
@@ -110,14 +96,15 @@ Open to **collaborations, open-source contributions, and exciting engineering op
       </a>
     </div>
 
-  <!--
+
   <div align="right" width="40%"> 
     <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
       <img src="https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge"/>
     </a>
   </div>
-  -->
+
 </div>
+-->
 
 <!--
 # 💻 Tech Stack:
