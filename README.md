@@ -40,7 +40,7 @@ Open to **collaborations, open-source contributions, and exciting engineering op
  </div>
  
 # 🌐 Socials:
-<!--
+
 <div width="100%" style="display: flex; align-items: center; justify-content: space-between;"> 
   <div align="left" width="48%">
     <a href="https://www.github.com/Aryan3522" target="_blank">
@@ -69,7 +69,7 @@ Open to **collaborations, open-source contributions, and exciting engineering op
       <img src="https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge"/>
     </a>
 </div>
-  -->
+
   <table width="100%" style="border:none;border-collapse:collapse;">
 <tr style="border:none;">
 <td align="left" valign="middle" style="border:none;">
