@@ -19,6 +19,8 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 <a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
 -->
+
+<!-- Monkey GIF -->
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank">
   <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="250"/>
 </a>
@@ -38,6 +40,14 @@ Open to **collaborations, open-source contributions, and exciting engineering op
 <div align="center">
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
  </div>
+
+
+[![Visits Badge](https://komarev.com/ghpvc/?username=Aryan3522&label=Profile%20views&color=red&style=for-the-badge)]()
+<a href="https://x.com/code_milkha" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter" ></img></a>
+<a href="https://www.linkedin.com/in/aryan-hooda-code/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Linkedin" /></a>
+<a href="https://www.github.com/Aryan3522" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" /></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
  
 # 🌐 Socials:
 
@@ -50,7 +60,7 @@ Open to **collaborations, open-source contributions, and exciting engineering op
           src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg"
         /> </a
       >&nbsp;
-      <a href="https://www.x.com/AryanSolix" target="_blank">
+      <a href="https://x.com/code_milkha" target="_blank">
         <img
           height="50"
           width="50"
@@ -68,7 +78,7 @@ Open to **collaborations, open-source contributions, and exciting engineering op
         /> </a
       >&nbsp;
       <a
-        href="https://www.linkedin.com/in/aryan-hooda-17b86b24a"
+        href="https://www.linkedin.com/in/aryan-hooda-code/"
         target="_blank"
       >
         <img
