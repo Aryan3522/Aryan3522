@@ -218,14 +218,19 @@
 <p align="center">
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Aryan3522&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" width="100%" />
-  <!-- <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aayushbharti&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" width="100%" /> -->
+</a>
+<a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Aryan3522&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" width="100%" />
+</a>
+<a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Aryan3522&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" width="100%" />
 </a>
 </p>
 
 ## ✍️ Dev Quote of the Day
 
 <p align="center" style="margin-bottom:20px;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true" width="100%" minHeight="200px" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true" width="100%" />
 </p>
 </details>
 ---
