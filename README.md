@@ -10,6 +10,7 @@ Hi there! 👋 I'm **Aryan**, a passionate **Full Stack Web Developer** who love
 
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=Aryan3522&label=Profile%20views&color=red&style=for-the-badge)]()
+<span align="right">
 <a href="https://x.com/code_milkha" target="_blank">
   <!-- <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter" /> -->
   <img height="20" width="20" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" />
@@ -26,6 +27,7 @@ Hi there! 👋 I'm **Aryan**, a passionate **Full Stack Web Developer** who love
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank">
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
 </a>
+</span>
 
 <h3>Full Stack Engineer</h3>
 
