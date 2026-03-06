@@ -39,8 +39,8 @@ Open to **collaborations, open-source contributions, and exciting engineering op
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
  </div>
 # 🌐 Socials:
-
-<table width="100vw" border="0" cellspacing="0" cellpadding="0">
+<!--
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="left">
       <a href="https://www.github.com/Aryan3522" target="_blank">
@@ -72,6 +72,68 @@ Open to **collaborations, open-source contributions, and exciting engineering op
     </td>
   </tr>
 </table>
+-->
+<div width="100%" style="display: flex; justify-content: space-between; align-items: center;">
+      <div>
+        <a href="https://www.github.com/Aryan3522" target="_blank">
+          <img
+            height="30"
+            width="30"
+            src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg"
+          /> </a
+        >&nbsp;
+        <a href="https://www.x.com/AryanSolix" target="_blank">
+          <img
+            height="30"
+            width="30"
+            src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg"
+          /> </a
+        >&nbsp;
+        <a
+          href="https://meta.stackoverflow.com/users/28490476/aryan"
+          target="_blank"
+        >
+          <img
+            height="30"
+            width="30"
+            src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/stackoverflow.svg"
+          /> </a
+        >&nbsp;
+        <a
+          href="https://www.linkedin.com/in/aryan-hooda-17b86b24a"
+          target="_blank"
+        >
+          <img
+            height="30"
+            width="30"
+            src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg"
+          /> </a
+        >&nbsp;
+        <a href="https://www.instagram.com/_aryan_hooda_" target="_blank">
+          <img
+            height="30"
+            width="30"
+            src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg"
+          /> </a
+        >&nbsp;
+        <a href="https://www.discord.com/users/m_aryan_m" target="_blank">
+          <img
+            height="30"
+            width="30"
+            src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/discord.svg"
+          /> </a
+        >&nbsp;
+        <a href="https://www.youtube.com/@code_milkha" target="_blank">
+          <img
+            height="30"
+            width="30"
+            src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/youtube.svg"
+          />
+        </a>
+      </div>
+      [![Visits
+      Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://personal-portfolio-gamma-gold-55.vercel.app/)
+    </div>
 <!--
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
