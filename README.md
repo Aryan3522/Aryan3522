@@ -42,7 +42,7 @@ Open to **collaborations, open-source contributions, and exciting engineering op
 # 🌐 Socials:
 
 <div width="100%" style="display: flex; align-items: center; justify-content: space-between;"> 
-  <div align="left" width="48%">
+  <div align="left" width="40%">
     <a href="https://www.github.com/Aryan3522" target="_blank">
       <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" /> 
     </a >&nbsp; 
@@ -64,12 +64,13 @@ Open to **collaborations, open-source contributions, and exciting engineering op
       <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/youtube.svg" /> 
     </a> 
   </div> 
-  <div align="right" width="48%"> 
+  <div align="right" width="40%"> 
     <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
       <img src="https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge"/>
     </a>
 </div>
 
+<!--
   <table width="100%" style="border:none;border-collapse:collapse;">
 <tr style="border:none;">
 <td align="left" valign="middle" style="border:none;">
@@ -113,6 +114,8 @@ Open to **collaborations, open-source contributions, and exciting engineering op
 </td>
 </tr>
 </table>
+-->
+
 <!--
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
