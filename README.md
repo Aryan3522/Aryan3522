@@ -1,10 +1,19 @@
 <!-- Add Banner Here! -->
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=Aryan3522&label=Profile%20views&color=red&style=for-the-badge)]()
-
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank">
   <img src='[https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif](https://komarev.com/ghpvc/?username=Aryan3522&label=Profile%20views&color=red&style=for-the-badge)'>
 </a>
+<a href="https://x.com/code_milkha" target="_blank">
+  <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
+</a>
+<a href="https://www.linkedin.com/in/aryan-hooda-code/" target="_blank">
+  <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="Linkedin" />
+</a>
+<a href="https://www.github.com/Aryan3522" target="_blank">
+  <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="GitHub" />
+</a>
+
 <!--
 <a href="https://x.com/code_milkha" target="_blank">
   <img align="right" height="30" width="30"
@@ -21,15 +30,6 @@
 -->
 
 
-<a href="https://x.com/code_milkha" target="_blank">
-  <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
-</a>
-<a href="https://www.linkedin.com/in/aryan-hooda-code/" target="_blank">
-  <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="Linkedin" />
-</a>
-<a href="https://www.github.com/Aryan3522" target="_blank">
-  <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="GitHub" />
-</a>
 
 <!--
 <a href="https://x.com/code_milkha" target="_blank">
