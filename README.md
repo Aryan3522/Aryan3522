@@ -40,7 +40,7 @@ Open to **collaborations, open-source contributions, and exciting engineering op
  </div>
 # 🌐 Socials:
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100vw" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="left">
       <a href="https://www.github.com/Aryan3522" target="_blank">
