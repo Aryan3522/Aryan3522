@@ -134,7 +134,7 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=0d1117&color=e5e7eb&line=38bdf8&point=38bdf8&area=true&hide_border=true" width="100%" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&theme=one-dark&hide-border=true" width="100%" />
 </p>
 
 <p align="center">
