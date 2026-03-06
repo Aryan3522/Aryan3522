@@ -1,10 +1,12 @@
 
+
+<!--
 ## Full Stack Web Developer
 
 ## 👨‍💻 About Me
 
 Hi there! 👋 I'm **Aryan**, a passionate **Full Stack Web Developer** who loves building scalable, user-centric applications and turning ideas into production-ready products.
-
+-->
 <!--
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank">
   <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="250"/>
@@ -18,6 +20,17 @@ Hi there! 👋 I'm **Aryan**, a passionate **Full Stack Web Developer** who love
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
+## Full Stack Engineer
+
+- 🚀 Building scalable full-stack applications with modern web technologies.
+
+- 👨‍💻 Explore my projects and work at [personal-portfolio-gamma-gold-55.vercel.app/](https://personal-portfolio-gamma-gold-55.vercel.app/)
+
+- 📝 I share insights and technical articles on [personal-portfolio-gamma-gold-55.vercel.app/blogs](https://personal-portfolio-gamma-gold-55.vercel.app/blogs)
+
+- 📫 Reach me at **aryanhooda3522@gmail.com**
+
+<!--
 🚀 Building clean, minimal UIs backed by high-performance, scalable APIs  
 💡 Strong in JavaScript, React, Node.js, and the modern web ecosystem  
 🧠 Currently deep-diving into system design, backend architecture, and scalable distributed systems  
@@ -29,6 +42,7 @@ I believe in **shipping fast, iterating intelligently, and writing code that sca
 Open to **collaborations, open-source contributions, and exciting engineering opportunities.**
 
 📬 Let’s connect and build something meaningful together.
+-->
 
 <div align="center">
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
