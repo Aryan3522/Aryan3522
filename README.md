@@ -42,28 +42,63 @@ Open to **collaborations, open-source contributions, and exciting engineering op
 # 🌐 Socials:
 
 <div width="100%"> 
-  <div align="left" width="40%">
-    <a href="https://www.github.com/Aryan3522" target="_blank">
-      <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" /> 
-    </a >&nbsp; 
-    <a href="https://www.x.com/AryanSolix" target="_blank"> 
-      <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" /> </a >&nbsp; 
-    <a href="https://meta.stackoverflow.com/users/28490476/aryan" target="_blank" >
-      <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/stackoverflow.svg" /> 
-    </a >&nbsp; 
-    <a href="https://www.linkedin.com/in/aryan-hooda-17b86b24a" target="_blank" > 
-      <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" /> 
-    </a >&nbsp; 
-    <a href="https://www.instagram.com/_aryan_hooda_" target="_blank"> 
-      <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" />
-    </a >&nbsp; 
-    <a href="https://www.discord.com/users/m_aryan_m" target="_blank">
-      <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/discord.svg" />
-    </a >&nbsp; 
-    <a href="https://www.youtube.com/@code_milkha" target="_blank"> 
-      <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/youtube.svg" /> 
-    </a> 
-  </div> 
+  <div align="left">
+      <a href="https://www.github.com/Aryan3522" target="_blank">
+        <img
+          height="50"
+          width="50"
+          src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg"
+        /> </a
+      >&nbsp;
+      <a href="https://www.x.com/AryanSolix" target="_blank">
+        <img
+          height="50"
+          width="50"
+          src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg"
+        /> </a
+      >&nbsp;
+      <a
+        href="https://meta.stackoverflow.com/users/28490476/aryan"
+        target="_blank"
+      >
+        <img
+          height="50"
+          width="50"
+          src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/stackoverflow.svg"
+        /> </a
+      >&nbsp;
+      <a
+        href="https://www.linkedin.com/in/aryan-hooda-17b86b24a"
+        target="_blank"
+      >
+        <img
+          height="50"
+          width="50"
+          src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg"
+        /> </a
+      >&nbsp;
+      <a href="https://www.instagram.com/_aryan_hooda_" target="_blank">
+        <img
+          height="50"
+          width="50"
+          src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg"
+        /> </a
+      >&nbsp;
+      <a href="https://www.discord.com/users/m_aryan_m" target="_blank">
+        <img
+          height="50"
+          width="50"
+          src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/discord.svg"
+        /> </a
+      >&nbsp;
+      <a href="https://www.youtube.com/@code_milkha" target="_blank">
+        <img
+          height="50"
+          width="50"
+          src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/youtube.svg"
+        />
+      </a>
+    </div>
 
   <!--
   <div align="right" width="40%"> 
@@ -154,7 +189,7 @@ Open to **collaborations, open-source contributions, and exciting engineering op
 <!--
 # 💻 Tech Stack:
 -->
-# < > Things I code with
+# Things I code with
 <p align="center">
    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,docker,aws,vercel,figma&theme=dark&titles=true"  width="100%"  />
 </p>
