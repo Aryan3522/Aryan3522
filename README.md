@@ -134,14 +134,11 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 
 
 <p align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&theme=one-dark&hide-border=true" width="100%" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=0d1117&color=e5e7eb&line=38bdf8&point=38bdf8&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-liard-eta-57.vercel.app/api?username=Aryan3522&show_icons=true&theme=radical" 
-    width="100%" 
-  />
+  <img src="https://github-readme-stats-liard-eta-57.vercel.app/api?username=Aryan3522&show_icons=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&hide_border=true" width="100%" />
 </p>
 
 ## ✍️ Dev Quote of the Day
