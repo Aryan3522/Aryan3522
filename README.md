@@ -15,7 +15,7 @@ I believe in **shipping fast, iterating smarter, and writing code that scales**.
 Open to collaborations, open-source contributions, and exciting opportunities!
 
 📬 Let’s connect and build something amazing together.
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> 
+<a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
 <div align="center">
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
