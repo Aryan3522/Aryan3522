@@ -22,13 +22,13 @@
 
 
 <a href="https://x.com/code_milkha" target="_blank">
-  <img align="right" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
+  <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
 </a>
 <a href="https://www.linkedin.com/in/aryan-hooda-code/" target="_blank">
-  <img align="right" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="Linkedin" />
+  <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="Linkedin" />
 </a>
 <a href="https://www.github.com/Aryan3522" target="_blank">
-  <img align="right" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="GitHub" />
+  <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="GitHub" />
 </a>
 
 <!--
