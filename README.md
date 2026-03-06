@@ -42,7 +42,7 @@ Open to **collaborations, open-source contributions, and exciting engineering op
 # 🌐 Socials:
 
 <div width="100%" style="display: flex; align-items: center; justify-content: space-between;"> 
-  <div align="left">
+  <div align="left" width="48%">
     <a href="https://www.github.com/Aryan3522" target="_blank">
       <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" /> 
     </a >&nbsp; 
@@ -64,7 +64,7 @@ Open to **collaborations, open-source contributions, and exciting engineering op
       <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/youtube.svg" /> 
     </a> 
   </div> 
-  <div align="right"> 
+  <div align="right" width="48%"> 
     <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
       <img src="https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge"/>
     </a>
