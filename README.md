@@ -18,9 +18,6 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 📬 Let’s connect and build something amazing together.
 <a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
-<div align="center">
- <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
- </div>
 -->
 <a href="https://aayushbharti.in/" target="_blank">
   <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="250"/>
@@ -38,6 +35,9 @@ Open to **collaborations, open-source contributions, and exciting engineering op
 
 📬 Let’s connect and build something meaningful together.
 
+<div align="center">
+ <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
+ </div>
 # 🌐 Socials:
 [![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://personal-portfolio-gamma-gold-55.vercel.app/)
 <div style="display: flex; justify-content: space-evenly;">
