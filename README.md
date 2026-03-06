@@ -20,7 +20,7 @@ Hi there! 👋 I'm **Aryan**, a passionate **Full Stack Web Developer** who love
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
-## Full Stack Engineer
+<h3>Full Stack Engineer</h3>
 
 - 🚀 Building scalable full-stack applications with modern web technologies.
 
