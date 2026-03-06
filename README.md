@@ -206,18 +206,19 @@
   
 <p align="center">
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=0d1117&color=e5e7eb&line=38bdf8&point=38bdf8&area=true&hide_border=true" width="100%" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=0d1117&color=e5e7eb&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="Graph width="100%" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
-  <img src="https://github-readme-stats-liard-eta-57.vercel.app/api?username=Aryan3522&show_icons=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats-liard-eta-57.vercel.app/api?username=Aryan3522&show_icons=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&hide_border=true" alt="stats" width="48%" />
 </a>
 </p>
 <p align="center">
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Aryan3522&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" width="100%" />
+  <!-- <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Aryan3522&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" width="100%" /> -->
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Aryan3522&langs_count=8&layout=compact&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&hide_border=true" width="48%" />
 </a>
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Aryan3522&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" width="48%" />
