@@ -14,6 +14,7 @@ Hi there! 👋 I'm **Aryan**, a passionate **Full Stack Web Developer** who love
 I believe in **shipping fast, iterating smarter, and writing code that scales**.  
 Open to collaborations, open-source contributions, and exciting opportunities!
 
+[![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://personal-portfolio-gamma-gold-55.vercel.app/)
 📬 Let’s connect and build something amazing together.
 
 <div align="center">
@@ -140,7 +141,7 @@ Open to collaborations, open-source contributions, and exciting opportunities!
 
 # 💻 Tech Stack:
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,docker,aws,vercel,figma&theme=dark&titles=true"  width="100%"  />
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,docker,aws,vercel,figma&theme=dark&titles=true"  width="100%"  />
 </p>
 
 <p align="center">
