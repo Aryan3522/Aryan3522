@@ -8,17 +8,15 @@
 Hi there! 👋 I'm **Aryan**, a passionate **Full Stack Web Developer** who loves building scalable, user-centric applications and turning ideas into production-ready products.
 -->
 
-<a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank">
-  <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="250"/>
-</a>
-
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=Aryan3522&label=Profile%20views&color=red&style=for-the-badge)]()
 <a href="https://x.com/code_milkha" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter" ></img></a>
 <a href="https://www.linkedin.com/in/aryan-hooda-code/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Linkedin" /></a>
 <a href="https://www.github.com/Aryan3522" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
+<a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank">
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
+</a>
 
 <h3>Full Stack Engineer</h3>
 
@@ -46,7 +44,7 @@ Open to **collaborations, open-source contributions, and exciting engineering op
 
 <div align="center">
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
- </div>
+</div>
 
  <!--
 # 🌐 Socials:
@@ -192,10 +190,10 @@ Open to **collaborations, open-source contributions, and exciting engineering op
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 -->
 
-<!--
+
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,html,css,tailwind,sass,bootstrap,js,ts,react,nextjs,angular,vue,jquery,mui,radix,threejs,nodejs,express,graphql,python,django,flask,php,mongodb,mysql,sqlite,supabase,firebase,docker,git,github,aws,vercel,netlify,render,vite,webpack,postman,figma,framer,blender,photoshop,illustrator&theme=dark&titles=true)](#)
 <br/>
--->
+
 
 <!--
 # 💻 Tech Stack:
