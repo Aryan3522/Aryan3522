@@ -156,12 +156,29 @@ Open to **collaborations, open-source contributions, and exciting engineering op
    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,docker,aws,vercel,figma&theme=dark&titles=true"  width="100%"  />
 </p>
 
+<details>
+  <summary>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;
+    <b>Stats Overview</b>
+  </summary>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 <p align="center">
+<a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=0d1117&color=e5e7eb&line=38bdf8&point=38bdf8&area=true&hide_border=true" width="100%" />
+</a>
 </p>
 
 <p align="center">
+<a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
   <img src="https://github-readme-stats-liard-eta-57.vercel.app/api?username=Aryan3522&show_icons=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&hide_border=true" width="100%" />
+</a>
+</p>
+<p align="center">
+<a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
+  <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aayushbharti&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
+</a>
 </p>
 
 ## ✍️ Dev Quote of the Day
@@ -169,5 +186,5 @@ Open to **collaborations, open-source contributions, and exciting engineering op
 <p align="center" style="margin-bottom:20px;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true" width="100%" />
 </p>
-
+</details>
 ---
