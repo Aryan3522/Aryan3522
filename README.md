@@ -198,7 +198,7 @@
 
 <details>
   <summary>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;
+    <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp; -->
     <b>Stats Overview</b>
   </summary>
 
