@@ -1,4 +1,5 @@
 <!-- Add Banner Here! -->
+<img height="100%" width="100%" src="./assets/Images/banner.png" alt="Banner">
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=Aryan3522&label=Profile%20views&color=red&style=for-the-badge)]()
 <a href="https://x.com/code_milkha" target="_blank">
