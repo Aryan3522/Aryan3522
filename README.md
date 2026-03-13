@@ -1,6 +1,7 @@
 <!-- Add Banner Here! -->
-<img height="100%" width="100%" src="./assets/Images/banner.png" alt="Banner">
-
+<a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank">
+  <img height="100%" width="100%" src="./assets/Images/banner.png" alt="Banner">
+</a>
 [![Visits Badge](https://komarev.com/ghpvc/?username=Aryan3522&label=Profile%20views&color=red&style=for-the-badge)]()
 <a href="https://x.com/code_milkha" target="_blank">
   <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
@@ -34,7 +35,7 @@
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
- <!--
+<!--
 # 🌐 Socials:
 
 <div width="100%"> 
