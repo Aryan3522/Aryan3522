@@ -1,6 +1,6 @@
 <!-- Add Banner Here! -->
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank">
-  <img height="100%" width="100%" src="./assets/Images/banner_image.png" alt="Banner Image">
+  <img height="100%" width="100%" src="./assets/Images/banner_img.png" alt="Banner Image">
 </a>
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=Aryan3522&label=Profile%20views&color=red&style=for-the-badge)]()
