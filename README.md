@@ -191,12 +191,12 @@
 # Things I code with
 <!--
 <div align="center">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,docker,aws,vercel,figma&theme=dark&titles=true"  width="100%"  />
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,docker,aws,vercel,figma&theme=dark&titles=true"  width="100%"  />
 </div>
 <br/>
 -->
 <div align="center">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,python,js,ts,tailwind,bootstrap,react,nextjs,angular,vue,jquery,mui,nodejs,express,graphql,django,flask,php,mongodb,mysql,postgres,firebase,docker,git,github,aws,vercel,postman,figma,framer,blender&theme=dark&titles=true"  width="100%"  />
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,js,ts,tailwind,bootstrap,react,nextjs,angular,vue,jquery,mui,nodejs,express,graphql,django,flask,php,mongodb,mysql,postgres,firebase,docker,git,github,aws,vercel,postman,figma,framer,blender&theme=dark&titles=true"  width="100%"  />
 </div>
 
 <details>
