@@ -185,9 +185,6 @@
 <br/>
 -->
 
-<!--
-# 💻 Tech Stack:
--->
 # Things I code with
 <!--
 <div align="center">
@@ -204,8 +201,6 @@
     <b>Stats Overview</b>
   </summary>
 
-  <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  -->
 <p align="center">
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=0d1117&color=e5e7eb&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="Graph" width="100%" />
