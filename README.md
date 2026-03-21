@@ -193,7 +193,9 @@
 <br/>
 -->
 <div align="center">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,js,ts,tailwind,bootstrap,react,nextjs,angular,vue,jquery,mui,nodejs,express,graphql,django,flask,php,mongodb,mysql,postgres,firebase,docker,git,github,aws,vercel,postman,figma,framer,blender&theme=dark&titles=true"  width="100%"  />
+  <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,js,ts,tailwind,bootstrap,react,nextjs,angular,vue,jquery,mui,nodejs,express,graphql,django,flask,php,mongodb,mysql,postgres,firebase,docker,git,github,aws,vercel,postman,figma,framer,blender&theme=dark&titles=true" width="100%"  />
+  </a>
 </div>
 
 <details>
