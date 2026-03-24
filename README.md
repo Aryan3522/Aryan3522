@@ -210,9 +210,9 @@
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
   <img src="https://github-readme-stats-liard-eta-57.vercel.app/api?username=Aryan3522&show_icons=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&hide_border=true" alt="stats" width="100%" />
 </a>
-<a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
+<!-- <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Aryan3522&count_private=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=e5e7eb&hide_border=true" alt="streak stats" width="100%" />
-</a>
+</a> -->
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Aryan3522&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&hide_border=true" alt="readme stats" width="100%" />
 </a>
