@@ -204,17 +204,17 @@
   </summary>
 
 <p align="center">
-<a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=0d1117&color=e5e7eb&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="Graph" width="100%" />
-</a>
-
-<a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Aryan3522&count_private=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=e5e7eb&hide_border=true" alt="streak stats" width="100%" />
-</a>
-
-<a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Aryan3522&count_private=true&show_icons=true&rank_icon=default&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&hide_border=true" alt="readme stats" width="100%" />
-</a>
+  <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=0d1117&color=e5e7eb&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="Graph" width="100%" />
+  </a>
+  
+  <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
+    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Aryan3522&count_private=true&show_icons=true&rank_icon=default&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&hide_border=true" alt="readme stats" width="100%" />
+  </a>
+  
+  <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
+    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Aryan3522&count_private=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=e5e7eb&hide_border=true" alt="streak stats" width="100%" />
+  </a>
 </p>
 
 <hr style="border:1px solid #38bdf8; opacity:0.3;">
