@@ -21,7 +21,7 @@
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
 </a>
 
-<h3>Full Stack Engineer</h3>
+<h3>Architecting scalable solutions to serve users at global scale</h3>
 
 - 🚀 Building scalable full-stack applications with modern web technologies.
 
