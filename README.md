@@ -23,7 +23,7 @@
 
 <h3>Architecting scalable solutions to serve users at global scale</h3>
 
-- 🚀 Building scalable full-stack applications with modern web technologies.
+- 🚀Building scalable full-stack applications with modern web technologies.
 
 - 👨‍💻 Explore my projects and work at [Portfolio](https://personal-portfolio-gamma-gold-55.vercel.app/)
 
