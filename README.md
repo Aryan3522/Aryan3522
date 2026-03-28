@@ -31,25 +31,20 @@
 
 - 📫 Reach me at **aryanhooda3522@gmail.com**
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Eat%2C+Sleep%2C+Code%2C+Repeat%22" alt="Typing SVG" />
-</h1>
-
-<!--
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Aryan3522&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Aryan3522)
--->
-
-<a href="https://github.com/Aryan3522">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Aryan3522&data=followers,repositories,stars,commits&theme=darkmode" width="100%" />
-</a>
 <!-- Snake svg -->
 <div align="center">
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Eat%2C+Sleep%2C+Code%2C+Repeat%22" alt="Typing SVG" />
+</h1>
+
+<a href="https://github.com/Aryan3522">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Aryan3522&data=followers,repositories,stars,commits&theme=darkmode" width="100%" />
+</a>
 <!--
 # 🌐 Socials:
-
 <div width="100%"> 
   <div align="left">
       <a href="https://www.github.com/Aryan3522" target="_blank">
@@ -108,14 +103,11 @@
         />
       </a>
     </div>
-
-
   <div align="right" width="40%"> 
     <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
       <img src="https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge"/>
     </a>
   </div>
-
 </div>
 -->
 
