@@ -1,13 +1,9 @@
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Eat%2C+Sleep%2C+Code%2C+Repeat%22" alt="Typing SVG" />
-
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Aryan3522&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Aryan3522)
-  
 <!-- Add Banner Here! -->
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank">
   <img height="100%" width="100%" src="./assets/Images/banner_img.png" alt="Banner Image">
 </a>
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=Aryan3522&label=Profile%20views&color=red&style=for-the-badge)]()
+[![Visits Badge](https://komarev.com/ghpvc/?username=Aryan3522&label=Profile%20views&color=red&style=for-the-badge)](https://github.com/Aryan3522)
 <a href="https://x.com/code_milkha" target="_blank">
   <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
 </a>
@@ -34,6 +30,10 @@
 - 📝 I share insights and technical articles on [Blogs](https://personal-portfolio-gamma-gold-55.vercel.app/blogs)
 
 - 📫 Reach me at **aryanhooda3522@gmail.com**
+
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Eat%2C+Sleep%2C+Code%2C+Repeat%22" alt="Typing SVG" />
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Aryan3522&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Aryan3522)
 
 <!-- Snake svg -->
 <div align="center">
