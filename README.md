@@ -35,7 +35,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Eat%2C+Sleep%2C+Code%2C+Repeat%22" alt="Typing SVG" />
 </h1>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Aryan3522&data=followers,repositories,stars,commits&theme=tokyonight)](https://github.com/Aryan3522)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Aryan3522&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Aryan3522)
 
 <!-- Snake svg -->
 <div align="center">
