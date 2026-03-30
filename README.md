@@ -225,7 +225,7 @@
 ## ✍️ Dev Quote of the Day
 
 <p align="center" style="margin-bottom:20px;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true" style="width:100%; max-width:900px;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&hide_border=true" style="width:100%;" />
 </p>
 </details>
 ---
