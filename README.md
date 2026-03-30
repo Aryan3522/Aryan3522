@@ -43,7 +43,7 @@
 <a href="https://github.com/Aryan3522">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Aryan3522&data=followers,repositories,stars,commits&theme=darkmode" width="100%" alt="Profile Card" />
 </a>
-<!--
+
 # 🌐 Socials:
 <div width="100%"> 
   <div align="left">
@@ -109,7 +109,7 @@
     </a>
   </div>
 </div>
--->
+
 
 <!--
 # 💻 Tech Stack:
