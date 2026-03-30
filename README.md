@@ -44,73 +44,6 @@
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Aryan3522&data=followers,repositories,stars,commits&theme=darkmode" width="100%" alt="Profile Card" />
 </a>
 
-# 🌐 Socials:
-<div width="100%"> 
-  <div align="left">
-      <a href="https://www.github.com/Aryan3522" target="_blank">
-        <img
-          height="50"
-          width="50"
-          src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg"
-        /> </a
-      >&nbsp;
-      <a href="https://x.com/code_milkha" target="_blank">
-        <img
-          height="50"
-          width="50"
-          src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg"
-        /> </a
-      >&nbsp;
-      <a
-        href="https://meta.stackoverflow.com/users/28490476/aryan"
-        target="_blank"
-      >
-        <img
-          height="50"
-          width="50"
-          src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/stackoverflow.svg"
-        /> </a
-      >&nbsp;
-      <a
-        href="https://www.linkedin.com/in/aryan-hooda-code/"
-        target="_blank"
-      >
-        <img
-          height="50"
-          width="50"
-          src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg"
-        /> </a
-      >&nbsp;
-      <a href="https://www.instagram.com/_aryan_hooda_" target="_blank">
-        <img
-          height="50"
-          width="50"
-          src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg"
-        /> </a
-      >&nbsp;
-      <a href="https://www.discord.com/users/m_aryan_m" target="_blank">
-        <img
-          height="50"
-          width="50"
-          src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/discord.svg"
-        /> </a
-      >&nbsp;
-      <a href="https://www.youtube.com/@code_milkha" target="_blank">
-        <img
-          height="50"
-          width="50"
-          src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/youtube.svg"
-        />
-      </a>
-    </div>
-  <div align="right" width="40%"> 
-    <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
-      <img src="https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge"/>
-    </a>
-  </div>
-</div>
-
-
 <!--
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -183,23 +116,33 @@
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 -->
 
+# Things I code with
+<!-- all skills -->
 <!--
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,html,css,tailwind,sass,bootstrap,js,ts,react,nextjs,angular,vue,jquery,mui,radix,threejs,nodejs,express,graphql,python,django,flask,php,mongodb,mysql,sqlite,supabase,firebase,docker,git,github,aws,vercel,netlify,render,vite,webpack,postman,figma,framer,blender,photoshop,illustrator&theme=dark&titles=true)](#)
 <br/>
 -->
+<!-- optimized skills -->
 
-# Things I code with
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,js,ts,python,html,css,react,nextjs,tailwind,nodejs,express,graphql,mongodb,mysql,docker,aws,git,github,postman,vite&theme=dark&titles=true)](https://personal-portfolio-gamma-gold-55.vercel.app/)
+
+
+<!-- faang level -->
 <!--
 <div align="center">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,docker,aws,vercel,figma&theme=dark&titles=true"  width="100%"  />
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,docker,aws,vercel,figma&theme=dark&titles=true" width="100%"  />
 </div>
 <br/>
 -->
+
+<!-- old section -->
+<!--
 <div align="center">
   <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,js,ts,tailwind,bootstrap,react,nextjs,angular,vue,jquery,mui,nodejs,express,graphql,django,flask,php,mongodb,mysql,postgres,firebase,docker,git,github,aws,vercel,postman,figma,framer,blender&theme=dark&titles=true" width="100%"  />
   </a>
 </div>
+-->
 
 <details>
   <summary>
