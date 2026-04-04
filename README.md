@@ -66,12 +66,14 @@
   </a>
 </div>
 -->
+
 <div align="center">
   <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,js,ts,python,html,css,react,nextjs,vite,tailwind,nodejs,express,graphql,mongodb,mysql,docker,aws,git,github,postman&theme=dark&titles=true" width="100%"  />
   </a>
 </div>
 
+<br/>
 
 <details>
   <summary>
