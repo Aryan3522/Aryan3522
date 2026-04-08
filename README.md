@@ -36,10 +36,12 @@
  <img src="http://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
+<!-- Auto Typing words -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Eat%2C+Sleep%2C+Code%2C+Repeat%22" width="100%" alt="Typing SVG" />
 </h1>
 
+<!-- profile card -->
 <a href="https://github.com/Aryan3522">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Aryan3522&data=followers,repositories,stars,commits&theme=darkmode" width="100%" alt="Profile Card" />
 </a>
@@ -57,7 +59,6 @@
 </div>
 <br/>
 -->
-
 <!-- old section -->
 <!--
 <div align="center">
