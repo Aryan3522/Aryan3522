@@ -51,8 +51,15 @@
 
 # Things I code with
 <!-- all skills -->
+<!--
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,html,css,tailwind,sass,bootstrap,js,ts,react,nextjs,angular,vue,jquery,mui,radix,threejs,nodejs,express,graphql,python,django,flask,php,mongodb,mysql,sqlite,supabase,firebase,docker,git,github,aws,vercel,netlify,render,vite,webpack,postman,figma,framer,blender,photoshop,illustrator&theme=dark&titles=true)](#)
 <br/>
+-->
+<div align="center">
+  <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,html,css,tailwind,sass,bootstrap,js,ts,react,nextjs,angular,vue,jquery,mui,radix,threejs,nodejs,express,graphql,python,django,flask,php,mongodb,mysql,sqlite,supabase,firebase,docker,git,github,aws,vercel,netlify,render,vite,webpack,postman,figma,framer,blender,photoshop,illustrator&theme=dark&titles=true" width="100%"  />
+  </a>
+</div>
 
 <!-- faang level -->
 <!--
