@@ -3,6 +3,7 @@
   <img height="100%" width="100%" src="./assets/Images/banner_img.png" alt="Banner Image">
 </a>
 
+<!-- visit badge -->
 [![Visits Badge](https://komarev.com/ghpvc/?username=Aryan3522&label=Profile%20views&color=red&style=for-the-badge)](https://github.com/Aryan3522)
 <a href="https://x.com/code_milkha" target="_blank">
   <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
