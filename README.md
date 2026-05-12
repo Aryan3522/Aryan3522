@@ -19,6 +19,7 @@
   <img align="right" height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" alt="Instagram" />
 </a>
 
+<!-- Github Profile Card -->
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank">
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
 </a>
