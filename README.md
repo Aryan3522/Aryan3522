@@ -107,7 +107,12 @@
   <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
     <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Aryan3522&count_private=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=e5e7eb&hide_border=true" alt="streak stats" width="100%" />
   </a>
+
+  <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
+    <img src="https://github-profile-trophy.vercel.app/?username=Aryan3522&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%" />
+  </a>
 </p>
+
 
 <hr style="border:1px solid #38bdf8; opacity:0.3;">
 
