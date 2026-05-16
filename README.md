@@ -94,7 +94,7 @@
     <b>Stats Overview</b>
   </summary>
 
-<p align="center">
+<div align="center">
   <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=0d1117&color=e5e7eb&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="Graph" width="100%" />
   </a>
@@ -108,9 +108,13 @@
   </a>
 
   <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aryan3522&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%" />
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=Aryan3522&theme=radical&no-frame=false&no-bg=true&margin-w=8&column=3" 
+      width="100%" 
+      alt="GitHub Trophies"
+    />
   </a>
-</p>
+</div>
 
 
 <hr style="border:1px solid #38bdf8; opacity:0.3;">
