@@ -1,4 +1,4 @@
-<!-- Banner Image! -->
+<!-- Banner Image HERE! -->
 <a href="https://personal-portfolio-gamma-gold-55.vercel.app/" target="_blank">
   <img height="100%" width="100%" src="./assets/Images/banner_img.png" alt="Banner Image">
 </a>
