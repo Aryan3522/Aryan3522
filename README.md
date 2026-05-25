@@ -117,7 +117,6 @@
   </a>
 </div>
 
-
 <hr style="border:1px solid #38bdf8; opacity:0.3;">
 
 ## ✍️ Dev Quote of the Day
