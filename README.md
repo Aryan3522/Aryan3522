@@ -94,6 +94,7 @@
   </summary>
 
 <div align="center">
+  <!-- graph -->
   <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=0d1117&color=e5e7eb&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="Graph" width="100%" />
   </a>
