@@ -109,13 +109,15 @@
 
 <!-- Github Trophies -->
 
-  <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
+  <!-- <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
     <img 
       src="https://github-profile-trophy.vercel.app/?username=Aryan3522&theme=radical&no-frame=false&no-bg=true&margin-w=8&column=3" 
       width="100%" 
       alt="GitHub Trophies"
     />
   </a>
+  -->
+  
 </div>
 
 <hr style="border:1px solid #38bdf8; opacity:0.3;">
