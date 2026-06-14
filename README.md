@@ -98,7 +98,7 @@
   <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan3522&bg_color=0d1117&color=e5e7eb&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="Graph" width="100%" />
   </a>
-<!-- Stats -->
+<!-- readme Stats -->
   <a href="https://personal-portfolio-gamma-gold-55.vercel.app/">
     <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Aryan3522&count_private=true&show_icons=true&rank_icon=default&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8&hide_border=true" alt="readme stats" width="100%" />
   </a>
