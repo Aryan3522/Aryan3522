@@ -89,6 +89,7 @@
 <br/>
 <!-- dropdown -->
 <details>
+  <!-- dropdown button -->
   <summary>
     <b>Stats Overview</b>
   </summary>
