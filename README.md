@@ -113,7 +113,7 @@
 <hr style="border:1px solid #38bdf8; opacity:0.3;">
 
 ## ✍️ Dev Quote of the Day
-<!-- Quote Container -->
+
 <p align="center" style="margin-bottom:20px;">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&hide_border=true" style="width:100%;" />
 </p>
